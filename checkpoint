@@ -1,2 +1,2 @@
-model_checkpoint_path: "saved_variable"
-all_model_checkpoint_paths: "saved_variable"
+model_checkpoint_path: "TensorBoardTrail"
+all_model_checkpoint_paths: "TensorBoardTrail"
